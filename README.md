@@ -6,17 +6,13 @@ Assignments for the course -
 ## Assignments
 
 ### Module 2
-* [Solution](https://kprakhar27.github.io/Coursera-WebDev-Course-Assignment/module2-solution/)
-* Deadline: June 29, 12:29 PM IST
+* [Solution](https://ahilyakale.github.io/module2-solution/)
 
 ### Module 3
-* [Solution](https://kprakhar27.github.io/Coursera-WebDev-Course-Assignment/module3-solution/)
-* Deadline: July 06, 12:29 PM IST
+* [Solution](https://ahilyakale.github.io/module3-solution/)
 
 ### Module 4
-* [Solution](https://kprakhar27.github.io/Coursera-WebDev-Course-Assignment/module4-solution/)
-* Deadline: July 13, 12:29 PM IST
+* [Solution](https://ahilyakale.github.io/module4-solution/)
 
 ### Module 5
-* [Solution](https://kprakhar27.github.io/Coursera-WebDev-Course-Assignment/module5-solution/)
-* Deadline: July 20, 12:29 PM IST
+* [Solution](https://ahilyakale.github.io/module5-solution/)
